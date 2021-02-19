@@ -1,0 +1,10 @@
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\bin\Debug\WinForms_HW3_3.exe.config
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\bin\Debug\WinForms_HW3_3.exe
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\bin\Debug\WinForms_HW3_3.pdb
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.Form1.resources
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.Form2.resources
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.Properties.Resources.resources
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.csproj.GenerateResource.cache
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.exe
+D:\Академия ШАГ\Projects2\WinForms_HW3\WinForms_HW3_3\obj\Debug\WinForms_HW3_3.pdb
