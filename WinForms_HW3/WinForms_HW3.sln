@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_HW3_2", "WinForms_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_HW3_3", "WinForms_HW3_3\WinForms_HW3_3.csproj", "{61DF663F-8F08-47D7-ACB8-93DF365E291E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New", "New\New.csproj", "{B52B1B5D-EBAA-411A-BC2B-9BCEE394BD93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{61DF663F-8F08-47D7-ACB8-93DF365E291E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61DF663F-8F08-47D7-ACB8-93DF365E291E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61DF663F-8F08-47D7-ACB8-93DF365E291E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52B1B5D-EBAA-411A-BC2B-9BCEE394BD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52B1B5D-EBAA-411A-BC2B-9BCEE394BD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52B1B5D-EBAA-411A-BC2B-9BCEE394BD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52B1B5D-EBAA-411A-BC2B-9BCEE394BD93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
